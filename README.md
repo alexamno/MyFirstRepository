@@ -15,6 +15,6 @@ My first repository on GitHub
 ## Learn more
 
 * Branch
-* Push
+* Send to remote repository/Push
 * Pull/Fetch
 * Merge
