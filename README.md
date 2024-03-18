@@ -17,3 +17,4 @@ My first repository on GitHub
 * Branch
 * Push
 * Pull/Fetch
+* Merge
