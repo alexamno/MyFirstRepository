@@ -1,5 +1,6 @@
 # MyFirstRepository
 My first repository on GitHub
+
 Данный репозиторий был создан в рамках [профессии C#-разработчик](https://skillfactory.ru/csharp) на платформе SkillFactory.
 
 ## Текущий модуль
