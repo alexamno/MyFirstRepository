@@ -14,6 +14,6 @@ My first repository on GitHub
 
 ## Learn more
 
-*Branch
-*Push
-*Pull/Fetch
+* Branch
+* Push
+* Pull/Fetch
