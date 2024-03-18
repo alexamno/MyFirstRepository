@@ -12,7 +12,8 @@ My first repository on GitHub
 * Что такое GitHub
 * Что такое Markdown
 
-  ## Learn more
+## Learn more
+
 *Branch
 *Push
 *Pull/Fetch
